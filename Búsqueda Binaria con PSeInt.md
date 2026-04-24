@@ -23,9 +23,9 @@ para ello el sistema solo va a reconocer a la in formacion agregada dentro de lo
 # Complejidad: O(log n)
 Métrica	Valor
 ¿Cuántas comparaciones se hacen al buscar 6081 en ambos algoritmos?
-# linela
+# lineal
 Tamaño del arreglo (n)	7
 Iteraciones máximas esperadas	ceil(log₂ 8) = 8
-Iteraciones reales (peor caso)	(Tú contarás del test)
+Iteraciones reales (32)
 Complejidad Big O	O(log n)
 Comparaciones vs búsqueda lineal	Binaria: ~3 vs Lineal: ~8
