@@ -1,7 +1,7 @@
 # Taller_Practico_Analisis_Diseno_de_Algoritmos_Base
 solucion de tipo bitacora en enfasis a los aplicativos pseint y flowgorithm
 PARTE 1
-# Algoritmo BusquedaBinaria
+# Actividad 1: Búsqueda Binaria
 Ejecuta el programa (botón ▶)
 Ingresa: 3301
 Salida esperada:
@@ -20,3 +20,12 @@ en este caso el caso no fue exitoso pues al ingresar un numero no existente en e
 para ello el sistema solo va a reconocer a la in formacion agregada dentro de los parametros de la variable.
 <img width="1279" height="718" alt="Test Case 1 (Caso Éxito)" src="https://github.com/user-attachments/assets/29091552-0a34-4932-8037-58067857da2b" />
 
+# Complejidad: O(log n)
+Métrica	Valor
+¿Cuántas comparaciones se hacen al buscar 6081 en ambos algoritmos?
+# linela
+Tamaño del arreglo (n)	7
+Iteraciones máximas esperadas	ceil(log₂ 8) = 8
+Iteraciones reales (peor caso)	(Tú contarás del test)
+Complejidad Big O	O(log n)
+Comparaciones vs búsqueda lineal	Binaria: ~3 vs Lineal: ~8
