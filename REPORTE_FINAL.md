@@ -63,4 +63,8 @@ amplia, pero se pueden presentar otros errores, recomendacion aplicar la misma e
 
 # Conclusiones y Aprendizajes
 
-
+Segun cada proceso empleado y ejecutado cada variable y estructura tiene sus pros y sus contras, cada una debe aplicarse para casos concrentos, la busqueda lineal
+es perfecta para infomacion ordenada pero la binaria es mejor para informacion mucho mas amplia, ademas, si empleamos los esquemas de flowgorithm podemos tener
+una previa de como se veria nuestro algoritmos antes de estructurarlo en pseint u otros programas, entender que cada proceso y cada formula se puede utilizar para 
+diferentes operaciones pero mezclarlas puede ser contraproducente pues cada una consta de una funcion concreta, entender esta parte es fundamental pues entre 
+cada mezcla de codigos resulta en un proceso y dicho proceso cumple con una funcion segun el proposito.
