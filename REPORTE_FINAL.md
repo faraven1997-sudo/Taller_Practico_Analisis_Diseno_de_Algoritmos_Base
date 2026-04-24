@@ -10,7 +10,7 @@ Comparando con posición 3: 3301
 Posición en el sistema: 3 
 Valor del registro: 3301
 # Ejemplo de exito en la operacion
-se puede evidenciar que dentro del algoritmo este contempla varias variables antes de dar con el numero o valor buscado, de esta forma este puede proceso puede pasar
+se puede evidenciar que dentro del algoritmo este contempla varias variables antes de dar con el numero o valor buscado, de esta forma este proceso puede pasar
 por cada fila de manera casi ilimitada hasta dar con la busqueda este proceso pasa en milisegundos no obstante solo aplicaria para elemtendp existete dentro
 del algoritmo, como lo fue en este caso.
 <img width="1279" height="718" alt="Test Case 1 (Caso Éxito)" src="https://github.com/user-attachments/assets/d9c2a7f3-09ee-4948-8be5-9548a410b503" />
