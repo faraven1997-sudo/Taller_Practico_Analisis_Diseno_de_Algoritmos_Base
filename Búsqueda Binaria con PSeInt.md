@@ -49,3 +49,11 @@ Paso	Operación	Entrada	Cola Resultante	Tamaño	Verificación
 <img width="1279" height="719" alt="Simulador FIFA" src="https://github.com/user-attachments/assets/e3edb4d2-bf1b-41ce-863e-19228aea2220" />
 de este proceso se puede entender que cada entrada tiene una probabilidad de aparacer segun el criterio de busqueda, no obstante como en todo complejo proceso
 si se ingresa una opcion o valor invalido este lanzara un error y se dejara de ejecutar.
+
+# Actividad 4: Comparativa
+si es falso se presentara el siguiente escenario
+<img width="1279" height="718" alt="Falso" src="https://github.com/user-attachments/assets/d3881e0c-376e-49f7-aff8-45ea98a27c95" />
+
+si es verdadero se presentara el siguiente escenario
+<img width="1279" height="720" alt="verdadero" src="https://github.com/user-attachments/assets/7211b7bf-0ed7-426d-8b23-016ace12e923" />
+
