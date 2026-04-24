@@ -57,3 +57,6 @@ si es falso se presentara el siguiente escenario
 si es verdadero se presentara el siguiente escenario
 <img width="1279" height="720" alt="verdadero" src="https://github.com/user-attachments/assets/7211b7bf-0ed7-426d-8b23-016ace12e923" />
 
+# declaracion
+La mejora se amplifica exponencialmente con datasets más grandes, cuando el algoritmo tiene mas informacion este se vuelve mas complejo pero la informacion es mas
+amplia, pero se pueden presentar otros errores, recomendacion aplicar la misma estructura para cada nueva indormacion sin modificar los codigos.
