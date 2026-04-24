@@ -60,3 +60,7 @@ si es verdadero se presentara el siguiente escenario
 # declaracion
 La mejora se amplifica exponencialmente con datasets más grandes, cuando el algoritmo tiene mas informacion este se vuelve mas complejo pero la informacion es mas
 amplia, pero se pueden presentar otros errores, recomendacion aplicar la misma estructura para cada nueva indormacion sin modificar los codigos.
+
+# Conclusiones y Aprendizajes
+
+
