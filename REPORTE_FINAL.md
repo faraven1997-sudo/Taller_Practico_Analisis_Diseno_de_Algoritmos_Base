@@ -35,6 +35,8 @@ En el diagrama podemos visulalizar una estructura visual menos compleja pero mas
 en un esquema conceptual, casi como pseint pero con un orden mas establecido y propenso a errores, no obstante con este es mas facil visuaalizar una estrcutura
 antes de emplearla en pseint o en cualquier otro programa, es decir, en un acercamiento a una estructura base que no requiere terminos complejos pero si una
 logica avanzada para su funcionamiento.
+no bstante se pueden llegar a presentar errores de sintaxys en la matriz a la hora de ejecutar, pero al momento de organizarlo en las aplicaciones este se puede
+modificar.
 # ejemplo estructura 
 <img width="418" height="557" alt="Actividad 2 Análisis de Complejidad con Flowgorithm" src="https://github.com/user-attachments/assets/a8a0baf4-f245-4a1d-b92c-e2e1217684a3" />
 
