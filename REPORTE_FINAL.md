@@ -17,7 +17,7 @@ del algoritmo, como lo fue en este caso.
 
 # Ejemplo de error en la operacion
 en este caso el caso no fue exitoso pues al ingresar un numero no existente en el programa este presenta un error, y por lo mismo la busqueda se detiene 
-para ello el sistema solo va a reconocer a la in formacion agregada dentro de los parametros de la variable.
+para ello el sistema solo va a reconocer a la informacion agregada dentro de los parametros de la variable.
 <img width="1279" height="718" alt="Test Case 1 (Caso Éxito)" src="https://github.com/user-attachments/assets/29091552-0a34-4932-8037-58067857da2b" />
 
 # Complejidad: O(log n)
