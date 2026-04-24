@@ -38,3 +38,14 @@ logica avanzada para su funcionamiento.
 # ejemplo estructura 
 <img width="418" height="557" alt="Actividad 2 Análisis de Complejidad con Flowgorithm" src="https://github.com/user-attachments/assets/a8a0baf4-f245-4a1d-b92c-e2e1217684a3" />
 
+# Actividad 3: Colas FIFO
+confirmacion cola de fifo
+Paso	Operación	Entrada	Cola Resultante	Tamaño	Verificación
+1	Enqueue	"A"	[A]	1	✓
+2	Enqueue	"B"	[A, B]	2	✓
+3	Enqueue	"C"	[A, B, C]	3	✓
+4	Dequeue	-	[B, C]	2	✓ (Salió A)
+5	Dequeue	-	[C]	1	✓ (Salió B)
+<img width="1279" height="719" alt="Simulador FIFA" src="https://github.com/user-attachments/assets/e3edb4d2-bf1b-41ce-863e-19228aea2220" />
+de este proceso se puede entender que cada entrada tiene una probabilidad de aparacer segun el criterio de busqueda, no obstante como en todo complejo proceso
+si se ingresa una opcion o valor invalido este lanzara un error y se dejara de ejecutar.
